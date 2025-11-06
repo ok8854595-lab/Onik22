@@ -37,11 +37,20 @@ If you find any issues, please report them!
 Tutorial has been uploaded on YouTube
 - For mobile phone: https://youtu.be/zJsemXLaRbY?si=f0PE6L4oCGzYBwPn
 
+**Contact me**
 
+<div>
+  <h3>
+    <a href="https://www.facebook.com/mahmud0x7" style="color: black;" target="_blank" rel="noopener">MahMUD (Facebook)</a>
+    &nbsp;|&nbsp;
+    <!-- WhatsApp: Replace 8801XXXXXXXX with your full phone number (country code + local) without + or leading zeros -->
+    <a href="https://wa.me/8801XXXXXXXX?text=Hi%20MahMUD%2C%20I%27d%20like%20to%20connect." style="color: black;" target="_blank" rel="noopener">WhatsApp</a>
+    &nbsp;|&nbsp;
+    <!-- Gmail: Replace yourname@example.com with your email -->
+    <a href="mailto:yourname@example.com?subject=Hello%20MahMUD&body=Hi%20there%2C%0A%0AI%20wanted%20to%20get%20in%20touch%20regarding..." style="color: black;">Gmail</a>
+  </h3>
+</div>
 
-
-
-  
 
 
 <img align="center" src="https://i.imgur.com/UM3ekFf.jpeg"/>
