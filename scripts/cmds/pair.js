@@ -76,10 +76,8 @@ module.exports = {
 
     return message.reply({
       body: styledMessage,
-      attachment: [
+      attachment: [pic:}
         await getStreamFromURL(avatarUrl1),
         await getStreamFromURL(avatarUrl2)
-      ]
-    });
-  }
-};
+      
+  
