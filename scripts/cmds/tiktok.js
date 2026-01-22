@@ -72,7 +72,7 @@ const keyword = args.join(" ");
     } catch (error) {
       console.error(error);
       api.sendMessage(
-        "🥹error, contact MahMUD",
+        "🥹error, contact 👉 Gaming Crush ",
         event.threadID,
         event.messageID
       );
