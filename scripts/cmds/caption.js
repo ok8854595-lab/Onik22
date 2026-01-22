@@ -11,7 +11,7 @@ module.exports = {
     version: "1.7",
     author: "MahMUD",
     countDown: 5,
-    category: "love"
+    category: "love,sad, attitude, romantic,funny,jokes"
   },
 
   onStart: async ({ message, args }) => {
